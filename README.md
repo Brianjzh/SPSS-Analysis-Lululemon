@@ -77,8 +77,8 @@ This project examines the relationship between a student’s lifestyle and gende
 
 ## Some Key Visualizations
 
-### Final Regression Equation
-![Attrition by Business Travel](images/RegressionEquation.png)
+### Lululemon Awareness and Purchase Intention Dataset Overview
+![Overview](Overview)
 
 ---
 
