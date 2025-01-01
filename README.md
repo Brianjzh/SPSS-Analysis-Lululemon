@@ -19,6 +19,12 @@ This project examines the relationship between a student’s lifestyle and gende
 
 ---
 
+
+## Overview
+
+### Lululemon Awareness and Purchase Intention Dataset
+![Overview](Overview)
+---
 ## Methodology
 ### **Data Collection**
 - Surveyed students at UBC, collecting data on:
@@ -73,12 +79,7 @@ This project examines the relationship between a student’s lifestyle and gende
 - **Statistical Indicators**:
   - Adjusted R² = 0.005, significance > 0.05.
 
----
 
-## Overview
-
-### Lululemon Awareness and Purchase Intention Dataset
-![Overview](Overview)
 
 ---
 
