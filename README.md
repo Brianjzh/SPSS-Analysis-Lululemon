@@ -75,9 +75,9 @@ This project examines the relationship between a student’s lifestyle and gende
 
 ---
 
-## Some Key Visualizations
+## Overview
 
-### Lululemon Awareness and Purchase Intention Dataset Overview
+### Lululemon Awareness and Purchase Intention Dataset
 ![Overview](Overview)
 
 ---
